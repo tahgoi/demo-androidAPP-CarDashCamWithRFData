@@ -33,7 +33,7 @@
 
 ## 📲 Installation & Demo
 
-You can download the latest demo APK from the [Releases](https://github.com/yourusername/android-telemetry-pilot/releases) section.
+You can download the latest demo APK from the [Releases](https://github.com/tahgoi/android-telemetry-pilot/releases) section.
 
 ### Prerequisites
 - Android 10 (API 29) or higher.
@@ -62,7 +62,7 @@ You can download the latest demo APK from the [Releases](https://github.com/your
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/android-telemetry-pilot.git
+    git clone https://github.com/tahgoi/android-telemetry-pilot.git
     ```
 2.  Open in **Android Studio (Ladybug or newer)**.
 3.  Sync Gradle and build the project.
