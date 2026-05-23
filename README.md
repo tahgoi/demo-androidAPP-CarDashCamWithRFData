@@ -1,10 +1,15 @@
-# Android Telemetry Pilot 🛰️📹
+# CarDashCam with RF Data 🛰️📹
+
+APK Here: https://appdistribution.firebase.dev/i/f19a77b0a223ecb6
 
 **Android Telemetry Pilot** is a high-performance Android application designed for real-time cellular telemetry monitoring, synchronized video recording, and low-latency network offloading. It serves as a mobile sensor hub for field testing and remote monitoring scenarios.
 
 ![Project Status](https://img.shields.io/badge/Status-Beta-orange)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![API Level](https://img.shields.io/badge/API-29%2B-blue)
+
+
+
 
 ---
 
