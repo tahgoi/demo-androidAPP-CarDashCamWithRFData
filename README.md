@@ -11,6 +11,7 @@
 ## 🚀 Key Features
 
 - **Real-Time Telemetry HUD**: Monitor critical network metrics (5G NR/LTE), GPS coordinates, speed, and heading via a professional glassmorphic interface.
+- **Integrated OpenStreetMap (OSM)**: Live map tracking using OpenStreetMap for offline-capable, high-detail navigation data.
 - **On-Screen Display (OSD) Burn-in**: Automatically overlay telemetry data directly onto video frames before encoding, ensuring your data is permanently baked into the footage.
 - **High-Performance Video Engine**: Records H.264/AVC video synchronized with telemetry logs.
 - **Low-Latency Streaming**: Real-time JPEG-over-TCP offloading to companion receivers (e.g., MSI Claw, PC) for remote monitoring.
@@ -24,6 +25,7 @@
 - **Language**: Kotlin 1.9.22
 - **Camera Pipeline**: [CameraX](https://developer.android.com/training/camerax) (ImageAnalysis & Preview)
 - **Database**: [Room](https://developer.android.com/training/data-storage/room)
+- **Map Engine**: [osmdroid](https://github.com/osmdroid/osmdroid) for OpenStreetMap integration.
 - **Location**: Google Play Services (Fused Location Provider)
 - **Networking**: Raw Sockets (TCP) with custom frame headers
 - **Architecture**: MVVM with Kotlin Coroutines and StateFlow
