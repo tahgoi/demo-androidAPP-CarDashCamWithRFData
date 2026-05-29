@@ -7,7 +7,7 @@
 ![API Level](https://img.shields.io/badge/API-29%2B-blue)
 
 
-
+App is currently on Play Store undergoing testing, if intersted to download and participate onbeta testing, just send your email to android.xapps@gmail.com - we'll send you a link to download from Play Store.
 
 ---
 
