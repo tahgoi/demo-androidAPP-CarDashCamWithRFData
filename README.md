@@ -6,8 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![API Level](https://img.shields.io/badge/API-29%2B-blue)
 
-
-
+App is currently on Play Store undergoing testing, if intersted to download and participate onbeta testing, just send your email to android.xappslab@gmail.com - we'll send you a link to download from Play Store.
 
 ---
 
@@ -81,3 +80,32 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Developed for advanced telemetry field research.*
+
+---
+
+## 📸 Screenshots & Demo
+
+### Video Demo
+
+<video src="./screenshots/PDVqqzjcyJ9WTxzC99HXz4LV6NmjV6.mp4" controls width="100%"></video>
+
+### Screenshots
+
+<p align="center">
+  <img src="./screenshots/MQKKixt9hnjIdUTzxLTKQasVq7FR9z.jpeg" width="30%" />
+  <img src="./screenshots/QntkIn3KdwfXV7tM6Mj03YIE5ACcnP.jpg" width="30%" />
+  <img src="./screenshots/XMg8zotYBuDqSgyYa95i2Aq4AnYS9j.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="./screenshots/jNA0lL3xoBYuwOyRuOI0s11qBI0rrb.jpg" width="30%" />
+  <img src="./screenshots/frAJ7iBBYbxPMz43omeVjJxv3xzuCF.jpg" width="30%" />
+  <img src="./screenshots/zk7iXGsY2bCCy7jhwZFiz0SaVgwwXD.jpg" width="30%" />
+</p>
+<p align="center">
+  <img src="./screenshots/8dI1qPNKywsORCZd1M9HrfoBEQ9mCG.png" width="30%" />
+  <img src="./screenshots/2B6p6OVOAIQJf5tjTLtr5wkMp9USvL.png" width="30%" />
+  <img src="./screenshots/i67BPipS6QRSY8iP5PKVHVWhiG62Dx.png" width="30%" />
+</p>
+<p align="center">
+  <img src="./screenshots/vTmrRGnkZ2FWnXD9TSEiQKxUN6dGEP.png" width="30%" />
+</p>
