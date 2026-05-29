@@ -92,21 +92,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Screenshots
 
-<p align="center">
-  <img src="./screenshots/dashcam_mounted_lte_osd_video_mode.jpg" width="30%" title="Dashcam mounted on dash — LTE OSD video mode" />
-  <img src="./screenshots/dashcam_landscape_lte_osd_highway_100kmh_minimap.jpg" width="30%" title="Landscape OSD burn-in — highway 100 km/h with minimap" />
-  <img src="./screenshots/video_mode_portrait_lte_osd_indoor.jpg" width="30%" title="Portrait video mode — LTE OSD indoor" />
-</p>
-<p align="center">
-  <img src="./screenshots/map_view_osm_5gnr_panel.jpg" width="30%" title="Map view (OSM) with 5G NR panel" />
-  <img src="./screenshots/5gnr_monitor_lte_anchor_nr_secondary_cell.jpg" width="30%" title="5G NR Monitor — LTE anchor + NR secondary cell" />
-  <img src="./screenshots/file_manager_telemetry_csv_mp4_recordings.jpg" width="30%" title="File manager — telemetry CSV and MP4 recordings" />
-</p>
-<p align="center">
-  <img src="./screenshots/settings_sim_routing_offload_dark_theme.jpg" width="30%" title="Settings — SIM routing, wireless offload, dark theme" />
-  <img src="./screenshots/settings_telemetry_logging_sim_video_1080p.png" width="30%" title="Settings — telemetry logging, SIM, video 1080p" />
-  <img src="./screenshots/settings_video_30fps_1080p_logs_export.png" width="30%" title="Settings — video 30fps/1080p, logs export" />
-</p>
-<p align="center">
-  <img src="./screenshots/about_technical_architecture.png" width="30%" title="About — technical architecture" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./screenshots/dashcam_mounted_lte_osd_video_mode.jpg" width="260"/><br/><sub><b>What it shows:</b> Dashcam mount — LTE OSD video mode</sub></td>
+    <td align="center"><img src="./screenshots/video_mode_portrait_lte_osd_indoor.jpg" width="260"/><br/><sub><b>What it shows:</b> Portrait viewfinder — LTE OSD active</sub></td>
+    <td align="center"><img src="./screenshots/map_view_osm_5gnr_panel.jpg" width="260"/><br/><sub><b>What it shows:</b> OSM map — 5G NR measurement panel</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="./screenshots/dashcam_landscape_lte_osd_highway_100kmh_minimap.jpg" width="800"/><br/><sub><b>What it shows:</b> OSD burn-in — highway 100 km/h, LTE metrics + route minimap</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/5gnr_monitor_lte_anchor_nr_secondary_cell.jpg" width="260"/><br/><sub><b>What it shows:</b> 5G NR Monitor — LTE anchor &amp; NR secondary cell</sub></td>
+    <td align="center"><img src="./screenshots/file_manager_telemetry_csv_mp4_recordings.jpg" width="260"/><br/><sub><b>What it shows:</b> File manager — telemetry CSV &amp; MP4 recordings</sub></td>
+    <td align="center"><img src="./screenshots/about_technical_architecture.png" width="260"/><br/><sub><b>What it shows:</b> About — technical architecture</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/settings_sim_routing_offload_dark_theme.jpg" width="260"/><br/><sub><b>What it shows:</b> Settings — SIM routing &amp; wireless offload</sub></td>
+    <td align="center"><img src="./screenshots/settings_telemetry_logging_sim_video_1080p.png" width="260"/><br/><sub><b>What it shows:</b> Settings — telemetry logging &amp; video 1080p</sub></td>
+    <td align="center"><img src="./screenshots/settings_video_30fps_1080p_logs_export.png" width="260"/><br/><sub><b>What it shows:</b> Settings — 30fps/1080p &amp; log export</sub></td>
+  </tr>
+</table>
