@@ -88,25 +88,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Video Demo
 
-<video src="./screenshots/PDVqqzjcyJ9WTxzC99HXz4LV6NmjV6.mp4" controls width="100%"></video>
+<video src="./screenshots/screenrecording_dashcam_lte_osd_drive.mp4" controls width="100%"></video>
 
 ### Screenshots
 
 <p align="center">
-  <img src="./screenshots/MQKKixt9hnjIdUTzxLTKQasVq7FR9z.jpeg" width="30%" />
-  <img src="./screenshots/QntkIn3KdwfXV7tM6Mj03YIE5ACcnP.jpg" width="30%" />
-  <img src="./screenshots/XMg8zotYBuDqSgyYa95i2Aq4AnYS9j.jpg" width="30%" />
+  <img src="./screenshots/dashcam_mounted_lte_osd_video_mode.jpg" width="30%" title="Dashcam mounted on dash — LTE OSD video mode" />
+  <img src="./screenshots/dashcam_landscape_lte_osd_highway_100kmh_minimap.jpg" width="30%" title="Landscape OSD burn-in — highway 100 km/h with minimap" />
+  <img src="./screenshots/video_mode_portrait_lte_osd_indoor.jpg" width="30%" title="Portrait video mode — LTE OSD indoor" />
 </p>
 <p align="center">
-  <img src="./screenshots/jNA0lL3xoBYuwOyRuOI0s11qBI0rrb.jpg" width="30%" />
-  <img src="./screenshots/frAJ7iBBYbxPMz43omeVjJxv3xzuCF.jpg" width="30%" />
-  <img src="./screenshots/zk7iXGsY2bCCy7jhwZFiz0SaVgwwXD.jpg" width="30%" />
+  <img src="./screenshots/map_view_osm_5gnr_panel.jpg" width="30%" title="Map view (OSM) with 5G NR panel" />
+  <img src="./screenshots/5gnr_monitor_lte_anchor_nr_secondary_cell.jpg" width="30%" title="5G NR Monitor — LTE anchor + NR secondary cell" />
+  <img src="./screenshots/file_manager_telemetry_csv_mp4_recordings.jpg" width="30%" title="File manager — telemetry CSV and MP4 recordings" />
 </p>
 <p align="center">
-  <img src="./screenshots/8dI1qPNKywsORCZd1M9HrfoBEQ9mCG.png" width="30%" />
-  <img src="./screenshots/2B6p6OVOAIQJf5tjTLtr5wkMp9USvL.png" width="30%" />
-  <img src="./screenshots/i67BPipS6QRSY8iP5PKVHVWhiG62Dx.png" width="30%" />
+  <img src="./screenshots/settings_sim_routing_offload_dark_theme.jpg" width="30%" title="Settings — SIM routing, wireless offload, dark theme" />
+  <img src="./screenshots/settings_telemetry_logging_sim_video_1080p.png" width="30%" title="Settings — telemetry logging, SIM, video 1080p" />
+  <img src="./screenshots/settings_video_30fps_1080p_logs_export.png" width="30%" title="Settings — video 30fps/1080p, logs export" />
 </p>
 <p align="center">
-  <img src="./screenshots/vTmrRGnkZ2FWnXD9TSEiQKxUN6dGEP.png" width="30%" />
+  <img src="./screenshots/about_technical_architecture.png" width="30%" title="About — technical architecture" />
 </p>
