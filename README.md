@@ -38,7 +38,7 @@ App is currently on Play Store undergoing testing, if intersted to download and 
 
 ## 📲 Installation & Demo
 
-You can download the latest demo APK from the [Releases](https://github.com/tahgoi/android-telemetry-pilot/releases) section.
+You can download the latest demo APK from the [Releases](https://github.com/tahgoi/demo-androidAPP-CarDashCamWithRFData/releases) section.
 
 ### Prerequisites
 - Android 10 (API 29) or higher.
@@ -67,7 +67,7 @@ You can download the latest demo APK from the [Releases](https://github.com/tahg
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/tahgoi/android-telemetry-pilot.git
+    git clone https://github.com/tahgoi/demo-androidAPP-CarDashCamWithRFData.git
     ```
 2.  Open in **Android Studio (Ladybug or newer)**.
 3.  Sync Gradle and build the project.
@@ -84,31 +84,93 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots & Demo
+## 📸 Screenshots
 
-### Video Demo
-
-<video src="./screenshots/screenrecording_dashcam_lte_osd_drive.mp4" controls width="100%"></video>
-
-### Screenshots
+### Intro — Real-World Setup
 
 <table align="center">
   <tr>
-    <td align="center"><img src="./screenshots/dashcam_mounted_lte_osd_video_mode.jpg" width="260"/><br/><sub><b>What it shows:</b> Dashcam mount — LTE OSD video mode</sub></td>
-    <td align="center"><img src="./screenshots/video_mode_portrait_lte_osd_indoor.jpg" width="260"/><br/><sub><b>What it shows:</b> Portrait viewfinder — LTE OSD active</sub></td>
-    <td align="center"><img src="./screenshots/map_view_osm_5gnr_panel.jpg" width="260"/><br/><sub><b>What it shows:</b> OSM map — 5G NR measurement panel</sub></td>
+    <td align="center" colspan="2">
+      <img src="./screenshots/Page0-01_RecommendedMounting.jpg" width="780"/>
+      <br/><sub><b>Recommended Mounting</b> — windshield bracket at driver's eye level for optimal GPS signal and unobstructed video angle</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><img src="./screenshots/dashcam_landscape_lte_osd_highway_100kmh_minimap.jpg" width="800"/><br/><sub><b>What it shows:</b> OSD burn-in — highway 100 km/h, LTE metrics + route minimap</sub></td>
+    <td align="center">
+      <img src="./screenshots/Page0-02_ActualDriveRecordinRFMode.jpg" width="380"/>
+      <br/><sub><b>RF Mode — Live Drive</b> — LTE/5G metrics, GPS, speed, and heading overlaid in real-time during an actual trip</sub>
+    </td>
+    <td align="center">
+      <img src="./screenshots/Page0-03_ActualDriveRecordingTravellerMode.png" width="380"/>
+      <br/><sub><b>Traveller Mode — Live Drive</b> — simplified GPS + time OSD for everyday use without RF data clutter</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Page 1 — Video Recording &amp; OSD Modes
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="3">
+      <img src="./screenshots/Page1_Video-01-Standby.png" width="780"/>
+      <br/><sub><b>Standby</b> — camera preview active with HUD overlay, ready to start recording</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="./screenshots/5gnr_monitor_lte_anchor_nr_secondary_cell.jpg" width="260"/><br/><sub><b>What it shows:</b> 5G NR Monitor — LTE anchor &amp; NR secondary cell</sub></td>
-    <td align="center"><img src="./screenshots/file_manager_telemetry_csv_mp4_recordings.jpg" width="260"/><br/><sub><b>What it shows:</b> File manager — telemetry CSV &amp; MP4 recordings</sub></td>
-    <td align="center"><img src="./screenshots/about_technical_architecture.png" width="260"/><br/><sub><b>What it shows:</b> About — technical architecture</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-02-ReplayToday'sTrip.png" width="256"/><br/><sub>Replay Today's Trip</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-03_LogRecording.png" width="256"/><br/><sub>Log-Only Recording</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-04_VieoRecording.png" width="256"/><br/><sub>Video Recording Active</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="./screenshots/settings_sim_routing_offload_dark_theme.jpg" width="260"/><br/><sub><b>What it shows:</b> Settings — SIM routing &amp; wireless offload</sub></td>
-    <td align="center"><img src="./screenshots/settings_telemetry_logging_sim_video_1080p.png" width="260"/><br/><sub><b>What it shows:</b> Settings — telemetry logging &amp; video 1080p</sub></td>
-    <td align="center"><img src="./screenshots/settings_video_30fps_1080p_logs_export.png" width="260"/><br/><sub><b>What it shows:</b> Settings — 30fps/1080p &amp; log export</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-05_VideoRecordingStopped.png" width="256"/><br/><sub>Recording Stopped</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-06_PhotoTaken.png" width="256"/><br/><sub>Photo Capture</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-07_Mode1-GPS&TimeOnly.png" width="256"/><br/><sub>OSD Mode 1 — GPS &amp; Time Only</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/Page1_Video-08_Mode2-GPS&TimeWithRFData.png" width="256"/><br/><sub>OSD Mode 2 — GPS + RF Data</sub></td>
+    <td align="center"><img src="./screenshots/Page1_Video-09_Mode3-GPS&TimenaigationInfo.png" width="256"/><br/><sub>OSD Mode 3 — Navigation Info</sub></td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+---
+
+### Page 2 — Map &amp; Route Replay
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="3">
+      <img src="./screenshots/Page2_01_MapOverview.png" width="780"/>
+      <br/><sub><b>Map Overview</b> — live breadcrumb trail plotted on OpenStreetMap as the drive progresses</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/Page2_02_MapLegendOptions.png" width="256"/><br/><sub>Legend &amp; Layer Controls</sub></td>
+    <td align="center"><img src="./screenshots/Page2_03_ReplayLogs.png" width="256"/><br/><sub>Replay Logs — select a past trip</sub></td>
+    <td align="center"><img src="./screenshots/Page2_04_ReplayLogsDateRange.png" width="256"/><br/><sub>Date Range Filter</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/Page2_05_ReplayLogsPlot.png" width="256"/><br/><sub>Route Replay — path plotted on map</sub></td>
+    <td align="center"><img src="./screenshots/Page2_06_RFInfo_Dumpsys.png" width="256"/><br/><sub>RF Info Panel — live signal analysis</sub></td>
+    <td align="center"><img src="./screenshots/Page2_07_RFInfo_Dumpsys.png" width="256"/><br/><sub>RF Dumpsys Detail</sub></td>
+  </tr>
+</table>
+
+---
+
+### Page 3 — Settings &amp; Configuration
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="./screenshots/Page3_01_Settings_SystemMode.png" width="256"/><br/><sub>System Mode — RF or Traveller</sub></td>
+    <td align="center"><img src="./screenshots/Page3_01_Settings_Recording&Telemetry.png" width="256"/><br/><sub>Recording &amp; Telemetry Options</sub></td>
+    <td align="center"><img src="./screenshots/Page3_01_Settings_About&Licenses.png" width="256"/><br/><sub>About &amp; Open Source Licenses</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/Page3_03_Settings_APIKey&Database.png" width="256"/><br/><sub>API Key &amp; Database Management</sub></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
