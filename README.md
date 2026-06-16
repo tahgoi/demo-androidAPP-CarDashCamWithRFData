@@ -174,3 +174,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <td align="center"></td>
   </tr>
 </table>
+
+---
+
+## 📥 Download
+
+[![Download APK](https://img.shields.io/badge/Download-v1.0.4%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/tahgoi/demo-androidAPP-CarDashCamWithRFData/releases/download/v1.0.4/carDashCamWithRFData-v1.0.4.apk)
+
+> All releases: [github.com/tahgoi/demo-androidAPP-CarDashCamWithRFData/releases](https://github.com/tahgoi/demo-androidAPP-CarDashCamWithRFData/releases)
